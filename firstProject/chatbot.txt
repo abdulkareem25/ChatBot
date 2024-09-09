@@ -1,0 +1,17 @@
+chatbot -- streamlit
+
+question and response  -- streamlit
+
+diverse sector of HR policies, IT support, company events, and other organizational matters. -- LLM
+
+analyse and extract information from documents uploaded by employees relevant to organizational needs. --Langchain
+
+architecture is scalable to handle minimum 5 users parallelly-- Langchain - FastAPI
+
+optimizing response time - 5sec -- vectordatabase
+
+Enable 2FA (2 Factor Authentication – email id type) - APi
+
+filter bad language - NLP
+
+
